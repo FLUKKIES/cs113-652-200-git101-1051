@@ -1,0 +1,8 @@
+Code of git102
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct node {
+    Node* next;
+    int data ;
+}Node;
