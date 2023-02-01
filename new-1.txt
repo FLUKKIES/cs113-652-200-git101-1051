@@ -3,6 +3,6 @@ Code of git102
 #include <stdlib.h>
 
 typedef struct node {
-    Node* next;
-    int data ;
+    _Node* next;
+    double data ;
 }Node;
